@@ -4,6 +4,7 @@ public class HolaMundo2
         {
                 System.out.println( "holamundo " );
 		System.out.println( "hola Lalo" );
-        }
+		System.out.println( "Hola Osuna");
+	}
 }
 
